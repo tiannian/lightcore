@@ -1,4 +1,4 @@
 Lightcore
 
-> A experimental absolute distributed system with unlimited tps.
+> An experimental absolute distributed system with unlimited TPS.
 
